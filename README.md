@@ -1,7 +1,4 @@
-# WinIBW Funktion CSV-Template-Import
-
-**Carsten Klee**  
-**12.05.2025**
+# WinIBW Funktion csvImportTemplate
 
 ## Zweck der Funktion
 

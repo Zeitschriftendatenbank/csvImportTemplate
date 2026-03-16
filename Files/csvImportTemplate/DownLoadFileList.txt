@@ -1,0 +1,3 @@
+source=W4DialogFunctions.js, destination=%APPDATA%\OCLC\WinIBW4\csvImportTemplate\W4DialogFunctions.js
+source=W4DialogStyle.css, destination=%APPDATA%\OCLC\WinIBW4\csvImportTemplate\W4DialogStyle.css
+source=dialogCsvImportTemplate.html, destination=%APPDATA%\OCLC\WinIBW4\csvImportTemplate\dialogCsvImportTemplate.html
