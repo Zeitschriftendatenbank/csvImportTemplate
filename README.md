@@ -1,5 +1,12 @@
 # WinIBW Funktion csvImportTemplate
 
+## Installation
+
+Füge zum Beispiel folgende Zeilen zu deinem WinIBW4-Setup hinzu
+
+prefs.download.fileLocations = http://winibw-repo.sbb.berlin/winibw/csvImportTemplate/Files/
+prefs.scriptLocations = http://winibw-repo.sbb.berlin/winibw/csvImportTemplate/Scripts/
+
 ## Zweck der Funktion
 
 Die Ausgangslage ist eine CSV/SSV/TSV-Datei von zu importierenden Daten.  
